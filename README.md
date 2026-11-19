@@ -21,7 +21,7 @@ Data-Science-Learning-Hub/
 │
 ├── Python/
 │   └── Python_01.ipynb
-│
+│   |__ Python_02.ipynb
 ├── NumPy/
 ├── Pandas/
 ├── SQL/
@@ -37,3 +37,5 @@ Data-Science-Learning-Hub/
 To practice programming, strengthen data science concepts, and build practical skills through assignments and projects.
 
 **Course:** PW Skills – Data Science
+
+**Career Goal:** Aspiring Data Scientist | Continuous Learner | Problem Solver
